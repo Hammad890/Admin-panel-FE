@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hammad890/Admin-panel-FE/static/css/main.7b6a8ef1.css",
+    "main.js": "/Hammad890/Admin-panel-FE/static/js/main.32577834.js",
+    "index.html": "/Hammad890/Admin-panel-FE/index.html",
+    "main.7b6a8ef1.css.map": "/Hammad890/Admin-panel-FE/static/css/main.7b6a8ef1.css.map",
+    "main.32577834.js.map": "/Hammad890/Admin-panel-FE/static/js/main.32577834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6a8ef1.css",
+    "static/js/main.32577834.js"
+  ]
+}
